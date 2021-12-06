@@ -1,7 +1,6 @@
 # Virtex-CAD
 
-This repository contains the CAD source files for 34V0 and 34AB0.
-
+This repository contains the CAD source files for Virtex and its adapter board (34V0 and 34AB0).
 
 ## Part Descriptions
 34V0-BA-ENC "Back Enclosure":
